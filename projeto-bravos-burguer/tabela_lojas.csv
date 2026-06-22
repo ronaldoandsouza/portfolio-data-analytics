@@ -1,0 +1,4 @@
+id_loja,nome_loja,modelo_negocio,custo_fixo_aluguel
+1,Bravos Paulista,Avenida,15000.0
+2,Bravos Shopping Metrô,Shopping,25000.0
+3,Bravos Delivery,Delivery,5000.0

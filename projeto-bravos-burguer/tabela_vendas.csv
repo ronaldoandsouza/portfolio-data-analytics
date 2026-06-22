@@ -1,0 +1,8 @@
+id_pedido,id_loja,id_produto,quantidade,forma_pagamento
+1001,1,101,2,Pix
+1002,1,102,1,Dinheiro
+1003,2,101,5,Cartao
+1004,2,101,3,Cartao
+1005,3,101,1,Pix
+1006,3,102,2,Cartao
+1007,3,101,4,Pix
